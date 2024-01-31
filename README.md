@@ -11,7 +11,7 @@ This is my first repository, It is an responsive protfolio.
 <br>
 //And if you notice any fault aur mistake you can contact me or you can fork that code if you want.
 <br>
-//If you want to see the protfolio 
+//If you want to see the protfolio instantly instead of add the code on local with fork and live it, here's the link to see the protfolio - amit-roy.netlify.app
 
 THANK YOU 😇 
 
